@@ -1,9 +1,25 @@
-- 👋 Hi, I’m Peter Ehrich
-- 👀 I’m interested in fullstack development, api design, cloud architecture and infrastructure, dev ops, ci/cd, microservices, typescript, nestjs, openapi and list goes on and on... :) Anything going inside the stack and going from an idea to production.
+👋 Hi, I'm Peter Ehrich
 
+A full-stack developer with a passion for building scalable, well-crafted systems. Skilled in Python, DevOps, and committed to DevSecOps best practices. Experienced with Terraform for infrastructure provisioning. Always exploring new technologies to take projects from idea to production.
 
+👀 Currently Learning:
 
-<!---
-EhrichPeter/EhrichPeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Go: Delving into its efficiency and concurrency powers.
+System Design: Crafting robust and adaptable architectures.
+T3 Stack: Embracing the future of full-stack development.
+Vercel: Experimenting with its ease of deployment.
+🛠️ Tech I Enjoy:
+
+Python
+GitHub Actions
+Terraform
+Prisma
+TypeScript
+NestJS
+OpenAPI
+API Design
+Cloud Architecture
+Microservices
+...and always hungry for more!
+Let's connect!
+[Insert links to your LinkedIn, portfolio, or other relevant sites]
