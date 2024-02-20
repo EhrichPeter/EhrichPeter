@@ -4,10 +4,10 @@ A full-stack developer with a passion for building scalable, well-crafted system
 
 # 👀 Currently Learning:
 
-Go: Delving into its efficiency and concurrency powers.
-System Design: Crafting robust and adaptable architectures.
-T3 Stack: Embracing the future of full-stack development.
-Vercel: Experimenting with its ease of deployment.
+- Go: Delving into its efficiency and concurrency powers.
+- System Design: Crafting robust and adaptable architectures.
+- T3 Stack: Embracing the future of full-stack development.
+- Vercel: Experimenting with its ease of deployment.
 # 🛠️ Tech I Enjoy:
 
 - Python
