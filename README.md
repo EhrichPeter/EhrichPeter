@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Peter Ehrich
 
-A full-stack developer with a passion for building scalable, well-crafted systems. Skilled in Python, DevOps, and committed to DevSecOps best practices. Experienced with Terraform for infrastructure provisioning. Always exploring new technologies to take projects from idea to production.
+A full-stack developer with a passion for building scalable, well-crafted systems. Always exploring new technologies to take projects from idea to production.
 
 # 👀 Currently Learning:
 
@@ -22,4 +22,4 @@ Vercel: Experimenting with its ease of deployment.
 - Microservices
 ...and always hungry for more!
 Let's connect!
-[Insert links to your LinkedIn, portfolio, or other relevant sites]
+
