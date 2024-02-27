@@ -8,6 +8,8 @@ A full-stack developer with a passion for building scalable, well-crafted system
 - System Design: Crafting robust and adaptable architectures.
 - T3 Stack: Embracing the future of full-stack development.
 - Vercel: Experimenting with its ease of deployment.
+- Unity: Dabbling in game development
+  
 # 🛠️ Tech I Enjoy:
 
 - Python
